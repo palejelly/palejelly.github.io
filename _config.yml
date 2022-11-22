@@ -3,23 +3,23 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Jonathan Mann
+title:            Junho Lee
 tagline:          
-url:              https://jonathanmann.github.io/
+url:              https://palejelly.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Jonathan Mann
-  url:            https://jonathanmann.github.io/
-  email:          jonathan.william.mann@gmail.com
+  name:           Junho Lee
+  url:            https://palejelly.github.io/
+  email:          palejelly@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://jonathanmann.github.io/
+  repo:           https://palejelly.github.io/
 
 pages_list:       
   About: '/about'
   Projects: '/projects'
-  GitHub : 'https://github.com/jonathanmann'
+  GitHub : 'https://github.com/palejelly'
   Else: '/else'
