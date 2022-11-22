@@ -1,0 +1,25 @@
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Jonathan Mann
+tagline:          
+url:              https://jonathanmann.github.io/
+paginate:         1
+baseurl:          /
+author:
+  name:           Jonathan Mann
+  url:            https://jonathanmann.github.io/
+  email:          jonathan.william.mann@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://jonathanmann.github.io/
+
+pages_list:       
+  About: '/about'
+  Projects: '/projects'
+  GitHub : 'https://github.com/jonathanmann'
+  Else: '/else'
